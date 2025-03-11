@@ -8,5 +8,5 @@ Keep in mind that before I commited this project, I have already produced most o
 * Some functions and funcionality need a better implementation.
 * Fixes are going to be made. Be patient.
 
-As far as I'm concerned, no one would ever use this for production. Anyway if you are wondering,
+As far as I'm concerned, no one would nor should ever use this on production. Anyway if you are wondering,
                         DON'T USE IN INSECURE ENVIROMNENTS 
