@@ -9,4 +9,4 @@ Keep in mind that before I commited this project, I have already produced most o
 * Fixes are going to be made. Be patient.
 
 As far as I'm concerned, no one would nor should ever use this on production. Anyway if you are wondering,
-                        DON'T USE IN INSECURE ENVIROMNENTS 
+                        DON'T USE IT ON INSECURE ENVIROMNENTS 
